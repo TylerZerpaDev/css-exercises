@@ -1,1 +1,22 @@
-/* Add CSS Styling */
+.basic-text{
+    background-color: lightcoral;
+    color: blacl;
+    font-size: 20px;
+}
+
+.cooler{
+    font-size: 42px;
+    font-weight: bold;
+}
+
+#first-id{
+    color: blue;
+    font-size: 54px;
+}
+
+#second-id{
+    background-color: green;
+    font-size: 28px;
+    font-weight: bold;
+    color: black;
+}
