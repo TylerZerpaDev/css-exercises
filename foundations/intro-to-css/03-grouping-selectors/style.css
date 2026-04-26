@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.buttn{
+    font-size: 24px;
+}
+
+.left{
+    background-color: black;
+    color: white;
+}
+
+.right{
+    background-color: yellow;
+    color: black;
+}
